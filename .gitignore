@@ -1,0 +1,12 @@
+# runtime artifacts
+browser-agent/profile/
+browser-agent/shots/
+browser-agent/node_modules/
+node_modules/
+
+# npm
+package-lock.json
+
+# temp
+*.log
+.tmp/
