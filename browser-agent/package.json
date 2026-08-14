@@ -1,0 +1,9 @@
+{
+  "name": "dsh-browser-agent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playwright service + Cordis plugin backing the browser-pro preset (15 browser_* tools).",
+  "dependencies": {
+    "playwright-core": "1.61.1"
+  }
+}
